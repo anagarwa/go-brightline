@@ -5,6 +5,6 @@
     "/content/brightline-go/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/go-brightline/"
+    "/content/brightline-go/"
   ]
 }
