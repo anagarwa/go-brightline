@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/go-brightline/:/",
-    "/content/go-brightline/configuration:/.helix/config.json",
-    "/content/go-brightline/metadata:/metadata.json"
+    "/content/brightline-go/:/",
+    "/content/brightline-go/configuration:/.helix/config.json",
+    "/content/brightline-go/metadata:/metadata.json"
   ],
   "includes": [
     "/content/go-brightline/"
